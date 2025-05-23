@@ -67,16 +67,21 @@ curl -X PUT http://127.0.0.1:5000/tasks/1 -H "Content-Type: application/json" -d
 curl -X DELETE http://127.0.0.1:5000/tasks/1
 ```
 
----
-
-## 📇 Contato
-
-👨‍💻 João Victor Souza Silva  
-🔗 [Meu LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-souza-silva-9a6a2525b/)
-
----
-
 ## 🛠️ Futuras melhorias
 - Interface Web com Flask ou React
 - Autenticação de usuário
 - Banco de dados SQLite ou PostgreSQL
+
+---
+
+## 📇 Contato
+
+👨‍💻 João Victor de Souza Silva  
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-souza-silva-9a6a2525b/)
+🔗 [Meu Github](https://github.com/JoaoVictorSouzaSilva)
+
+---
+ 
+ ## Autor
+João Victor de Souza Silva
+=======
