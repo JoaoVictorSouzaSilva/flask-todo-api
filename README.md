@@ -1,10 +1,12 @@
 # 🧠 Flask To-Do API
 
-Bem-vindo ao meu primeiro projeto de backend com Flask! Essa API simples permite criar, listar, atualizar e deletar tarefas (CRUD) usando Python.
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%F0%9F%94%A5-lightgrey)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/JoaoVictorSouzaSilva/flask-todo-api)
 
-> 💬 **Meu começo como Desenvolvedor**
->
-> Este projeto marca o início da minha jornada com backend em Python. Ele foi criado com o objetivo de aprender, praticar e compartilhar!
+Bem-vindo ao meu primeiro projeto de backend com Flask! Essa API simples permite criar, listar, atualizar e deletar tarefas (CRUD) usando Python.
 
 ---
 
