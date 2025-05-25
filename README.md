@@ -31,6 +31,7 @@ cd todo-api
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
+source venv/Scripts/activate # Bash
 ```
 
 3. Instale as dependências:
@@ -51,7 +52,9 @@ A API estará disponível em: `http://127.0.0.1:5000`
 
 - Criar tarefa:
 ```bash
-curl -X POST http://127.0.0.1:5000/tasks -H "Content-Type: application/json" -d "{\"title\": \"Nova tarefa\"}"
+curl -X POST http://127.0.0.1:5000/tasks \
+     -H "Content-Type: application/json" \
+     -d '{"title": "Estudar Flask"}'
 ```
 
 - Listar tarefas:
