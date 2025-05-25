@@ -23,7 +23,7 @@ Bem-vindo ao meu primeiro projeto de backend com Flask! Essa API simples permite
 1. Clone o repositório:
 ```bash
 git clone https://github.com/JoaoVictorSouzaSilva/flask-todo-api.git
-cd flask-todo-api
+cd todo-api
 ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
